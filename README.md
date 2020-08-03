@@ -1,2 +1,2 @@
-# my_collection
-我自己收集和尝试的东西
+# wendang
+自己的一些学习心得
